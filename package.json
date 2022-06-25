@@ -23,6 +23,6 @@
         "fast-xml-parser": "^3.19.0",
         "human-date": "^1.4.0",
         "humanize-duration": "^3.25.2",
-        "node-fetch": "^2.6.1"
+        "node-fetch": "^2.6.7"
     }
 }
